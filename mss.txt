@@ -1,4 +1,0 @@
-bady{
-   font -size: 20px
-
-}
